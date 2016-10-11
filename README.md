@@ -88,8 +88,8 @@ oauth.authenticate(request)
 <!--- badge links -->
 [npm-image]: https://img.shields.io/npm/v/node-oauth2-server.svg
 [npm-url]: https://npmjs.org/package/node-oauth2-server
-[travis-image]: https://img.shields.io/travis/thomseddon/node-oauth2-server/master.svg
-[travis-url]: https://travis-ci.org/thomseddon/node-oauth2-server
+[travis-image]: https://travis-ci.org/talshani/node-oauth2-server.svg?branch=master
+[travis-url]: https://travis-ci.org/talshani/node-oauth2-server
 [downloads-image]: https://img.shields.io/npm/dm/node-oauth2-server.svg
 [downloads-url]: https://npmjs.org/package/node-oauth2-server
 
